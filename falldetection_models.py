@@ -871,7 +871,7 @@ for BATCH_SIZE in [128,64,32]:
         model_path = os.path.join(model_dir, model_filename)
 
         # Save the model to the specified path
-        model.save(model_path)
+        model.save(model_path)   model.save(model_path)
 
 
 # Save models and data to the specified directory
