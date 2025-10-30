@@ -130,23 +130,7 @@ Inference: ~5ms per sample
 
 Use case: High-accuracy applications, server-side processing
 
-3. GRU MODEL
-------------
-Architecture:
-```
-Input: (batch_size, 600, 6)
-├── GRU(256, return_sequences=True)
-├── BatchNormalization()
-├── GRU(128, return_sequences=True)
-├── Dropout(0.5)
-├── GRU(64)
-├── Dropout(0.3)
-├── Dense(64, activation='relu')
-└── Dense(1, activation='sigmoid')
 
-Parameters: ~850K
-Training time: ~10-15 minutes
-Inference: ~3ms per sample
 ```
 
 Use case: Balance between accuracy and computational efficiency

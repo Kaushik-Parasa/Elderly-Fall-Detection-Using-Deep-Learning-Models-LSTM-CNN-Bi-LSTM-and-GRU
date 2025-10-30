@@ -72,11 +72,6 @@ The project uses three different types of AI "brains" (called models):
    - Another expert looks at detailed features of the movement
    - More accurate but requires more computing power
 
-3. GRU (Gated Recurrent Unit):
-   - Similar to LSTM but simpler and faster
-   - Good balance between accuracy and speed
-   - Suitable for devices with limited battery life
-
 REAL-WORLD USE CASES
 ====================
 
