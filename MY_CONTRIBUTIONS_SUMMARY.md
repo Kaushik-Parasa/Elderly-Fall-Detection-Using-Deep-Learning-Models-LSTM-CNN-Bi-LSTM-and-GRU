@@ -299,17 +299,6 @@ The project demonstrates how AI can address real-world healthcare challenges whi
 
 ---
 
-## 📝 Resume Bullet Points
-
-**Machine Learning Engineer | Fall Detection Project**
-- Developed AI-powered fall detection system achieving 99.11% accuracy using Bi-LSTM+CNN architecture on multi-sensor data
-- Integrated MobiFall dataset (5.8M+ sensor readings from 24 subjects) with custom data fusion pipeline for accelerometer and gyroscope data
-- Built comprehensive testing framework reducing validation time by 90% through synthetic data generation and automated benchmarking
-- Created production-ready documentation suite covering technical architecture, deployment strategies, and stakeholder communication
-- Optimized model inference to <5ms latency for real-time fall detection in healthcare applications
-
----
-
 ## 🏆 Key Differentiators
 
 What makes my contributions valuable:
@@ -324,9 +313,8 @@ What makes my contributions valuable:
 
 ## 📧 Contact & Links
 
-**GitHub Repository**: [Your GitHub Link]
-**LinkedIn**: [Your LinkedIn Profile]
-**Email**: [Your Email]
+**LinkedIn**: github.com/Kaushik-Parasa
+**Email**: chinmaykaushikparasa@gmail.com
 
 ---
 
