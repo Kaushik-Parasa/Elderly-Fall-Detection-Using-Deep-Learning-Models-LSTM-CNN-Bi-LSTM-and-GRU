@@ -313,7 +313,8 @@ What makes my contributions valuable:
 
 ## 📧 Contact & Links
 
-**LinkedIn**: github.com/Kaushik-Parasa
+**LinkedIn**: https://www.linkedin.com/in/chinmaykaushikparasa/
+
 **Email**: chinmaykaushikparasa@gmail.com
 
 ---
