@@ -160,3 +160,20 @@ Contributions to this project are welcome. You can contribute by:
 
 Your insights and contributions are valuable to us. We encourage you to share your ideas, suggestions, or results of novel experiments to enrich the project further.
 
+## Project Poster
+For a summarized view of the project and its findings, refer to our poster presentation:
+![Project Poster Thumbnail](Poster.jpg)
+**[Click here to view the full poster presentation](Poster.pdf)**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Data provided by the MobiAct Dataset.
+- Thanks to all contributors who have helped in refining the models and improving the dataset.
+
+Feel free to clone this repository, explore the data, and utilize the models for your research or projects!
+
+📧 For inquiries or suggestions, please contact us at: singh.kajal940@gmail.com
+
+👨‍💻 Your feedback matters! I'm eager to hear from you.
